@@ -1,0 +1,48 @@
+/* Custom font styles - keeping these as they're specific to your design */
+h1 {
+  font-family: "Almendra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.almendra-regular {
+  font-family: "Almendra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.almendra-bold {
+  font-family: "Almendra", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.almendra-regular-italic {
+  font-family: "Almendra", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.almendra-bold-italic {
+  font-family: "Almendra", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+body {
+  font-family: "Almendra", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Minimal custom styles - most styling now handled by Bootstrap utilities */
+.decoration {
+  color: rgb(234, 84, 84);
+}
+
+.catapimbas {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  align-items: center;
+}
